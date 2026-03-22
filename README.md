@@ -1,4 +1,10 @@
+
+
 # Amazon Sales Dashboard 📊
+
+<img width="1370" height="862" alt="Screenshot 2026-03-22 230849" src="https://github.com/user-attachments/assets/6a9fa200-1501-4bda-9c21-edd63289cd46" />
+
+<img width="1529" height="769" alt="Screenshot 2026-03-22 230922" src="https://github.com/user-attachments/assets/af8dbb10-8223-42db-986d-4f028b7634e8" />
 
 ## Overview
 This project presents an interactive Power BI dashboard that analyzes Amazon sales data to uncover key business insights. It helps in understanding sales performance, profitability, and customer trends across different regions and categories.
@@ -9,10 +15,8 @@ This project presents an interactive Power BI dashboard that analyzes Amazon sal
 - Understand regional and state-wise sales distribution
 - Track order trends over time
 - Evaluate return status and customer behavior
-
-## Key Features
 - KPI cards for Sales, Profit, Orders, and Quantity
-- Region and State slicers for dynamic filtering
+- Region and State slicers for dynamic 
 - Category and Sub-category analysis
 - Time-series analysis (Year/Quarter trends)
 - Profitability insights
