@@ -2,10 +2,6 @@
 
 # Amazon Sales Dashboard 📊
 
-<img width="1370" height="862" alt="Screenshot 2026-03-22 230849" src="https://github.com/user-attachments/assets/6a9fa200-1501-4bda-9c21-edd63289cd46" />
-
-<img width="1529" height="769" alt="Screenshot 2026-03-22 230922" src="https://github.com/user-attachments/assets/af8dbb10-8223-42db-986d-4f028b7634e8" />
-
 ## Overview
 This project presents an interactive Power BI dashboard that analyzes Amazon sales data to uncover key business insights. It helps in understanding sales performance, profitability, and customer trends across different regions and categories.
 
@@ -32,7 +28,9 @@ This project presents an interactive Power BI dashboard that analyzes Amazon sal
 - Dashboard screenshots
 
 ## Dashboard Preview
-(Add your screenshot here)
+<img width="1370" height="862" alt="Screenshot 2026-03-22 230849" src="https://github.com/user-attachments/assets/6a9fa200-1501-4bda-9c21-edd63289cd46" />
+
+<img width="1529" height="769" alt="Screenshot 2026-03-22 230922" src="https://github.com/user-attachments/assets/af8dbb10-8223-42db-986d-4f028b7634e8" />
 
 ## Insights Gained
 - Certain regions contribute more to overall sales
