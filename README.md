@@ -32,6 +32,10 @@ This project presents an interactive Power BI dashboard that analyzes Amazon sal
 
 <img width="1529" height="769" alt="Screenshot 2026-03-22 230922" src="https://github.com/user-attachments/assets/af8dbb10-8223-42db-986d-4f028b7634e8" />
 
+## 📊 Project Presentation
+[Click here to view PPT]
+[Amazon_Sales_ppt.pptx](https://github.com/user-attachments/files/26203043/Amazon_Sales_ppt.pptx)
+
 ## Insights Gained
 - Certain regions contribute more to overall sales
 - High sales do not always mean high profit
